@@ -1,4 +1,5 @@
-# Movie Recommendation System
+# Movie Recommendation System [![Link to Project](https://img.icons8.com/ios-filled/50/808080/link.png)](https://project-6zdx.onrender.com/)
+
 
 This project implements a **Movie Recommendation System** using machine learning techniques to suggest movies based on a user's selected movie. The system uses data preprocessing, content-based filtering (cosine similarity), and Streamlit for deployment. It pulls movie details such as genres, cast, and director information from a dataset, and presents the recommendations in a user-friendly web interface.
 
@@ -71,7 +72,10 @@ This project implements a **Movie Recommendation System** using machine learning
 ## Deployment
 
 The application is deployed on **Render** and can be accessed via the following link:
-[Render Deployment Link]([https://your-app-name.onrender.com](https://project-6zdx.onrender.com/)) 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Project%20Link-brightgreen)](https://project-6zdx.onrender.com/)
+
+<!-- [Movie Recommendation System on Render](https://project-6zdx.onrender.com/) --> 
 
 - After launching the app, select a movie title from the dropdown.
 - Click the "Show Recommendation" button.
