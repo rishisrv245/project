@@ -1,0 +1,1 @@
+streamlit run /Users/rishisrivastava/coding/projects/movie_recommendation_system/app.py
