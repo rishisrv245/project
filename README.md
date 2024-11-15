@@ -71,7 +71,7 @@ This project implements a **Movie Recommendation System** using machine learning
 ## Deployment
 
 The application is deployed on **Render** and can be accessed via the following link:
-[Render Deployment Link](https://your-app-name.onrender.com)
+[Render Deployment Link]([https://your-app-name.onrender.com](https://project-6zdx.onrender.com/)) 
 
 - After launching the app, select a movie title from the dropdown.
 - Click the "Show Recommendation" button.
